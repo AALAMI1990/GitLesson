@@ -1,2 +1,0 @@
-payment 1
-payment 2
